@@ -1,0 +1,23 @@
+{
+  "name": "twitch-pubsub-atomik-jaye",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsDeke/twitch-pubsub-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsDeke/twitch-pubsub-example/issues"
+  },
+  "homepage": "https://github.com/itsDeke/twitch-pubsub-example#readme",
+  "dependencies": {
+    "twitch": "^4.0.7",
+    "twitch-pubsub-client": "^4.0.7"
+  }
+}
